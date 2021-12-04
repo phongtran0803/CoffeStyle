@@ -1,0 +1,166 @@
+@media ( min-width: 768px ) and ( max-width: 1023px){
+   
+}
+
+@media ( max-width: 767px){
+
+   .navigation_menu{
+       display: none;
+   }
+
+   /* .navigation_cart_btn{
+       margin-right: ;
+   } */
+
+   .menu-icon{
+       display: block;
+       margin-top: -4px;
+       margin-bottom: 0px;
+       width: 24px;
+       height: 14px;
+   }
+   .section{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-bottom: 100px;
+   }
+
+   .header_content{
+    justify-content: center;
+   }
+
+   .header_text{
+       width: 80%;
+   }
+
+   .wrap{
+    padding-right: 4%;
+    padding-left: 4%;
+   }
+
+   .content_section{
+       max-width: 100%;
+   }
+
+   .listitem{
+       width: 100%;
+   }
+
+   .image{
+       margin-bottom: 25px;
+       padding: 0;
+   }
+
+   .item_image{
+       width: 100%;
+   }
+   .feature_image{
+       height: 381px;
+       width: 100%;
+       padding: 0;
+   }
+
+   .behind_image{
+       width: 100%;
+   }
+   .explore_behind,
+   .explore_feature,
+   .explore_wrap{
+       padding-right: 0;
+   }
+
+   .story{
+       text-align: center;
+   }
+
+   .event_wrap{
+       grid-template-columns: none ;
+   }
+
+   .event_magazine{
+       flex-direction: column;
+       margin-bottom: 50px;
+   }
+
+   .magazine_image{
+       margin-bottom: 10px;
+       width: 100%;
+       margin-right: 0;
+   }
+
+   .magazine_small_image{
+       display: flex;
+       width: 100%;
+       align-items: center;
+   }
+
+   .magazine_small_image1, .magazine_small_image2{
+    width: 50%;
+   }
+   .magazine_small_image1{
+       margin-right: 5px;
+   }
+   .magazine_small_image2{
+       margin-left: 5px;
+   }
+
+   .event_content{
+       text-align: center;
+       padding-left: 0;
+   }
+
+   .pour{
+    background-attachment:unset;
+}
+
+    .bottom_section{
+        padding: 0;
+        max-width: 100%;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .subcribe_wrap{
+        min-width: 100%;
+    }
+    .subcribe_input{
+        margin-bottom: 10px;
+        text-align: center;
+        margin-right: 0;
+    }
+    .subcribe_input_form{
+        flex-direction: column;
+    }
+
+    .grid_layout{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer_section{
+        max-width: 100%;
+        margin-bottom: 0;
+    }
+
+
+    .footer_logo, .footer_menu, .footer_social_media, .footer_contact{
+        text-align: center;
+    }
+
+    .Logo_image{
+        margin-bottom: 10px;
+    }
+    .copyright{
+        margin-top: 10px;
+    }
+
+    .menu, .follow {
+        margin-bottom: 20px;
+    }
+
+    .footer_menu, .footer_social_media{
+        margin-bottom: 30px;
+    }
+}
